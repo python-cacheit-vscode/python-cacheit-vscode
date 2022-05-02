@@ -15,8 +15,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Microsoft/vscode-extension-samples"
+    "url": "https://github.com/python-cacheit-vscode/python-cacheit-vscode"
   },
+  "publisher": "python-cacheit-extension",
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
